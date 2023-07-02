@@ -1,0 +1,3 @@
+C:/Users/Ted Wu/CLionProjects/JSON_Parser/cmake-build-debug/CMakeFiles/JSON_Parser.dir
+C:/Users/Ted Wu/CLionProjects/JSON_Parser/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Ted Wu/CLionProjects/JSON_Parser/cmake-build-debug/CMakeFiles/rebuild_cache.dir
